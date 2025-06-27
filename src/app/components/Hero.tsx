@@ -54,15 +54,7 @@ export default function Hero() {
         </form>
       </section>
 
-      {/* Footer */}
-      <footer className="bg-gray-100 py-8 text-center">
-        <p className="text-sm text-gray-600">© 2025 Fukusus. All rights reserved.</p>
-        <div className="flex justify-center gap-4 mt-4">
-          <Link href="#">Instagram</Link>
-          <Link href="#">Facebook</Link>
-          <Link href="#">Contact</Link>
-        </div>
-      </footer>
+   
     </main>
   );
 }
